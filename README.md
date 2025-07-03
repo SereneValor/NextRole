@@ -1,6 +1,3 @@
-# NextRole
-AI-Powered Job Application Assistant
-
 # 📘 Product Blueprint: NextRole – AI-Powered Job Application Assistant
 
 ---
@@ -80,10 +77,3 @@ Used for personalized output and Job Fit accuracy.
 - LinkedIn integration  
 - Machine learning scoring model  
 """
-
-# Save to a .md file
-md_file_path = "/mnt/data/NextRole_Product_Blueprint.md"
-with open(md_file_path, "w") as f:
-    f.write(markdown_text)
-
-md_file_path
