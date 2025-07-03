@@ -1,11 +1,7 @@
 # 📘 Product Blueprint: NextRole – AI-Powered Job Application Assistant
 
----
-
 ## 🔖 App Name
 **NextRole** – A name that’s professional, clear, and future-oriented. Easily understood by anyone looking to land their next role.
-
----
 
 ## 💡 Core Idea
 A personal AI assistant that helps users:
@@ -14,8 +10,6 @@ A personal AI assistant that helps users:
 3. Assess job fit (Match % + reasoning)  
 4. Generate customized resume sections and cover letters  
 5. Track all applications in a simple dashboard  
-
----
 
 ## 🚀 MVP Features (Phase 1)
 
@@ -28,8 +22,6 @@ A personal AI assistant that helps users:
 - Google Sheets tracker integration  
 - Scalable for public launch later  
 
----
-
 ## 🧭 User Flow
 
 1. User starts app  
@@ -41,8 +33,6 @@ A personal AI assistant that helps users:
 7. User finalizes application externally  
 8. System logs job in tracker  
 
----
-
 ## 🧰 Stack & Tools
 
 - **Hosting**: Replit  
@@ -51,8 +41,6 @@ A personal AI assistant that helps users:
 - **Storage**: Google Sheets via gspread  
 - **Automation (later)**: Make.com  
 - **Prompt Templates**: Stored in code  
-
----
 
 ## 🧠 User Profile System
 
@@ -66,8 +54,6 @@ A personal AI assistant that helps users:
 
 Used for personalized output and Job Fit accuracy.
 
----
-
 ## 📈 Future Phases (v2+)
 
 - Job crawler & auto-apply option  
@@ -76,4 +62,3 @@ Used for personalized output and Job Fit accuracy.
 - Feedback memory (learns preferences)  
 - LinkedIn integration  
 - Machine learning scoring model  
-"""
