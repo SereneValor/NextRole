@@ -1,6 +1,6 @@
-# 📘 Product Blueprint: NextRole – AI-Powered Job Application Assistant
+# Product Blueprint: NextRole – AI-Powered Job Application Assistant
 
-## 🔖 App Name
+## App Name
 **NextRole** – A name that’s professional, clear, and future-oriented. Easily understood by anyone looking to land their next role.
 
 ## 💡 Core Idea
